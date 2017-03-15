@@ -1,0 +1,100 @@
+body {
+    background-color: tan;
+    height: 100%;
+}
+nav {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid white;
+    font-family: sans-serif;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+#image {
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+p {
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+}
+
+
+footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+
+form {
+    border: 4px solid black;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: teal;
+    font-family: sans-serif;
+}
+
+div {
+    padding-bottom: 5px;
+
+}
+
+table {
+    padding-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table a {
+    border: 2px solid black;
+    background-color: sienna;
+}
+
+#mail {
+
+    border: 2px solid black;
+    margin-top: 15%;
+    background-color: sienna;
+
+}
+
+.footerClass {
+    margin-top: 35%;
+}
+
+ul {
+    font-family: sans-serif;
+}
+
+li {
+    font-family: sans-serif;
+}
